@@ -1,4 +1,4 @@
-/*Bubble sort(without libray function)*/
+/*Selection sort(without libray function)*/
 
 #include<bits/stdc++.h>
 using namespace std;

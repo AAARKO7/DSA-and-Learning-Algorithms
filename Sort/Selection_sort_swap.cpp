@@ -1,4 +1,4 @@
-/*Bubble sort(using swap function)*/
+/*Selection sort(using swap function)*/
 
 #include<bits/stdc++.h>
 using namespace std;
