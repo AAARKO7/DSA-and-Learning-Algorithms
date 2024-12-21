@@ -1,4 +1,4 @@
-/*Quick sort{O(nLogn)}*/
+/*Quick sort{O(n^2)}*/
 
 #include<bits/stdc++.h>
 using namespace std;
